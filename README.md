@@ -60,7 +60,7 @@ pulsaciones por minuto.
 - Gráfica del ritmo cardíaco en pantalla OLED.
 - Semáforo de LEDs que indica el nivel del pulso.
 
-📦 [Repositorio](https://github.com/Fajard05/ERYVRA) · 🟡 En desarrollo
+📦 [Repositorio privado](https://github.com/Fajard05/ERYVRA) · 🟡 En desarrollo
 
 ### CalendarEspol — paralelos y horarios
 
@@ -70,7 +70,7 @@ previo a matricularse.
 - Consulta de los paralelos disponibles antes de la matrícula.
 - Armado del horario de clases antes de matricularse.
 
-📦 [Repositorio](https://github.com/Fajard05/CalendarEspol) · 🔨 En desarrollo
+📦 [Repositorio privado](https://github.com/Fajard05/CalendarEspol) · 🔨 En desarrollo
 
 ### Explorando la cultura con la web — Chancho Fest 2026
 
