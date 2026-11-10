@@ -43,7 +43,6 @@ llevar cada proyecto desde la idea hasta una versión que funcione.
 **Herramientas y entornos**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
@@ -63,12 +62,16 @@ pulsaciones por minuto.
 - Gráfica del ritmo cardíaco en pantalla OLED.
 - Semáforo de LEDs que indica el nivel del pulso.
 
-📦 [Repositorio privado](https://github.com/Fajard05/ERYVRA) · 🟡 En desarrollo
+📦 [Repositorio privado](https://github.com/Fajard05/ERYVRA) · 🔨 En desarrollo
 
 ### CalendarEspol — paralelos y horarios
 
 Extensión de navegador (Chromium) para la obtención de paralelos y la planeación
 de horarios de clases previo a matricularse.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111111)
 
 - Consulta de los paralelos disponibles antes de la matrícula.
 - Armado del horario de clases antes de matricularse.
