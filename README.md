@@ -89,4 +89,9 @@ al evento cultural *Chancho Fest 2026* (ESPOL).
 🌐 [Demo](https://fajard05.github.io/Proyecto-02-Explorando-la-cultura-con-la-web/) ·
 📦 [Repositorio](https://github.com/Fajard05/Proyecto-02-Explorando-la-cultura-con-la-web)
 
+## Contacto
+
+- 📧 [anmifade@hotmail.com](mailto:anmifade@hotmail.com)
+- 💻 [github.com/Fajard05](https://github.com/Fajard05)
+
 
