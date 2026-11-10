@@ -10,8 +10,8 @@
 
 Soy estudiante de Ingeniería en Ciencias de la Computación en la ESPOL.
 Me interesa construir herramientas que resuelvan un problema concreto:
-sitios web, programas de
-escritorio y pequeños dispositivos que capturan datos.
+sitios web, programas de escritorio y pequeños dispositivos que capturan
+datos.
 
 Me gustaría indagar en el tema de la ciberseguridad.
 
