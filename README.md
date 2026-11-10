@@ -64,8 +64,8 @@ pulsaciones por minuto.
 
 ### CalendarEspol — paralelos y horarios
 
-Extensión para la obtención de paralelos y la planeación de horarios de clases
-previo a matricularse.
+Extensión de navegador (Chromium) para la obtención de paralelos y la planeación
+de horarios de clases previo a matricularse.
 
 - Consulta de los paralelos disponibles antes de la matrícula.
 - Armado del horario de clases antes de matricularse.
